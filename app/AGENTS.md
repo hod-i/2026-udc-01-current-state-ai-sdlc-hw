@@ -16,7 +16,8 @@ Fell free to change it, if you find more productive way.
 - Follow ESLint configuration.
 - Use Prettier for formatting.
 - Place all reusable modules in a dedicated folder, e.g., "libraries", and underneath each module in its own folder, e.g., "/libraries/logger".
-- use TypeScript sparingly and thoughtfully.
+- Use TypeScript sparingly and thoughtfully.
+- Place new module in a dedicated folder, e.g., "components", and underneath each module in its own folder, e.g., "/components/calculator".
 
 ## Guardrails
 - do not show all suggestions, write suggestions one by one, and ask show next or not.
