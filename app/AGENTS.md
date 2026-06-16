@@ -1,4 +1,4 @@
-# Agent.md - test project (/app folder)
+# Agent.md - Test project (/app folder)
 This is a document which describes rules for any AI tool which will be used for development for building correct communication and workflow.
 
 # Stack
