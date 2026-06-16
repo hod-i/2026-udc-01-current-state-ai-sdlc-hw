@@ -15,9 +15,13 @@ Fell free to change it, if you find more productive way.
 ## Conventions
 - Follow ESLint configuration.
 - Use Prettier for formatting.
-- Place all reusable modules in a dedicated folder, e.g., "libraries", and underneath each module in its own folder, e.g., "/libraries/logger".
-- Use TypeScript sparingly and thoughtfully.
-- Place new module in a dedicated folder, e.g., "components", and underneath each module in its own folder, e.g., "/components/calculator".
+- Place shareable, reusable utilities and components in "libraries/" folder, 
+  e.g. /libraries/combo-box.
+- Place project-specific components in "components/" folder, 
+  e.g. /components/game-score-tracker.
+- Use type inference where intent is obvious (e.g., const x = 5 infers number).
+- Add explicit types for function parameters and public API surfaces.
+- Avoid `any` type unless explicitly justified in a comment.
 
 ## Guardrails
 - do not show all suggestions, write suggestions one by one, and ask show next or not.
