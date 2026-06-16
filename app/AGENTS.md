@@ -21,9 +21,9 @@ This is a document which describes rules for any AI tool which will be used for 
 - Use type inference where intent is obvious (e.g., const x = 5 infers number).
 - Add explicit types for function parameters and public API surfaces.
 - Avoid `any` type unless explicitly justified in a comment.
-- when start answer use 🧠
 
 ## Guardrails
 - do not show all suggestions, write suggestions one by one, and ask show next or not.
 - do not use any new public library.
 - use program languages which is defined in stack.
+- when start answer use 🧠.
