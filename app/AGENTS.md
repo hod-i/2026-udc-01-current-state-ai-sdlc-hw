@@ -1,6 +1,5 @@
 # Agent.md - test project (/app folder)
-This is first draft of the agent.md file which could have small colisions and inaccuracies. 
-Fell free to change it, if you find more productive way.
+This is a document which describes rules for any AI tool which will be used for development for building correct communication and workflow.
 
 # Stack
 - Minumum Node.js 20.9
