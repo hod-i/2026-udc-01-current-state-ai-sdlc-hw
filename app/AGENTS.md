@@ -12,8 +12,6 @@ This is a document which describes rules for any AI tool which will be used for 
 - build: `npm run build`
 
 ## Conventions
-- Follow ESLint configuration.
-- Use Prettier for formatting.
 - Place shareable, reusable utilities and components in "libraries/" folder, 
   e.g. /libraries/combo-box.
 - Place project-specific components in "components/" folder, 
