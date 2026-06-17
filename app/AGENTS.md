@@ -18,7 +18,7 @@ This is a document which describes rules for any AI tool which will be used for 
   e.g. /components/game-score-tracker.
 - Use type inference where intent is obvious (e.g., const x = 5 infers number).
 - Add explicit types for function parameters and public API surfaces.
-- Avoid `any` type unless explicitly justified in a comment.
+- Avoid `any` type unless explicitly justified in the comment.
 
 ## Guardrails
 - do not show all suggestions, write suggestions one by one, and ask show next or not.
